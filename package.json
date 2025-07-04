@@ -1,0 +1,10 @@
+{
+  "name": "stock-trade-finance-api",
+  "version": "0.1.0",
+  "description": "Stock Trade MCP server in Tiingo with stock prices, news, forex, and fundamentals programmatically via the MCP",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
