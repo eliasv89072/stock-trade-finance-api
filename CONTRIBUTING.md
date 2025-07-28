@@ -2,3 +2,4 @@
 
 Notes and usage details for stock-trade-finance-api.
 - link the usage section
+- add a note about the defaults
