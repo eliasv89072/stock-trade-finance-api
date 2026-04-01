@@ -19,3 +19,4 @@ Notes and usage details for stock-trade-finance-api.
 - clarify the setup steps
 - link the usage section
 - link the usage section
+- link the usage section
