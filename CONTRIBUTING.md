@@ -26,3 +26,4 @@ Notes and usage details for stock-trade-finance-api.
 - link the usage section
 - fix a small wording issue
 - add a note about the defaults
+- add a note about the defaults
